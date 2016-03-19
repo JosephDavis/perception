@@ -1,6 +1,9 @@
 Perception
 ============
 
+[![Build Status](https://travis-ci.org/JosephDavis/perception.svg?branch=master)](https://travis-ci.org/JosephDavis/perception)
+[![npm version](https://img.shields.io/npm/v/perception.svg)](https://www.npmjs.com/package/perception)
+
 Perceive events and observables with ease.
 
 Table of Contents
