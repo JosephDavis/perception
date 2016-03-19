@@ -5,7 +5,9 @@ const pkg = require('./package.json');
 
 const year = new Date().getFullYear();
 const author = pkg.author.match(/[A-Za-z]+\s[A-Za-z]+/);
-const banner = `${pkg.name} ${pkg.version} Copyright ${year} ${author}, ${pkg.license}`;
+const banner = `${pkg.name} v${pkg.version}
+Copyright ${year} ${author} (github.com/JosephDavis)
+Licensed under ${pkg.license}`;
 
 module.exports = {
   entry: pkg.main,
