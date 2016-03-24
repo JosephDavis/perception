@@ -37,8 +37,6 @@ array.addListener('add', added => {
 array.push(4); // Console shows: 'Added: 4!'
 ```
 
-For browser usage, a UMD module is provided in the `dist` folder in the `master` branch.
-
 Installation
 ------------
 
