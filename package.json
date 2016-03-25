@@ -9,6 +9,17 @@
     "type": "git",
     "url": "https://github.com/JosephDavis/perception.git"
   },
+  "keywords": [
+    "perception",
+    "observe",
+    "observable",
+    "observables",
+    "map",
+    "set",
+    "array",
+    "value",
+    "property"
+  ],
   "scripts": {
     "lint": "./node_modules/.bin/eslint lib/**",
     "test": "./node_modules/.bin/ava --serial --verbose",
