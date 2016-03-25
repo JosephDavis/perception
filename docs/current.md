@@ -5,13 +5,16 @@
 <dd><p>Stores event listeners and provides the capability to notify them of events.</p>
 </dd>
 <dt><a href="#ObservableArray">ObservableArray</a></dt>
-<dd><p>Provides the functionality for observing changes made to an Array.</p>
+<dd><p>Provides the functionality for observing changes made to an Array. All instance methods available
+on Array and EventDispatcher are available to an ObservableArray.</p>
 </dd>
 <dt><a href="#ObservableMap">ObservableMap</a></dt>
-<dd><p>Provides the functionality for observing changes to a Map.</p>
+<dd><p>Provides the functionality for observing changes to a Map. All instance methods available on Map
+and EventDispatcher are available to an ObservableMap.</p>
 </dd>
 <dt><a href="#ObservableSet">ObservableSet</a></dt>
-<dd><p>Provides the functionality for observing changes to a Set.</p>
+<dd><p>Provides the functionality for observing changes to a Set. All instance methods available on Set
+and EventDispatcher are available to an ObservableSet.</p>
 </dd>
 <dt><a href="#ObservableValue">ObservableValue</a></dt>
 <dd><p>Provides the capability to maintain observers for a specific value or reference.</p>
@@ -102,7 +105,8 @@ Dispatches the provided event, optionally accepting an object to pass to listene
 <a name="ObservableArray"></a>
 
 ## ObservableArray
-Provides the functionality for observing changes made to an Array.
+Provides the functionality for observing changes made to an Array. All instance methods available
+on Array and EventDispatcher are available to an ObservableArray.
 
 **Kind**: global class  
 
@@ -211,7 +215,8 @@ Provides an array of cleared element to listeners.
 <a name="ObservableMap"></a>
 
 ## ObservableMap
-Provides the functionality for observing changes to a Map.
+Provides the functionality for observing changes to a Map. All instance methods available on Map
+and EventDispatcher are available to an ObservableMap.
 
 **Kind**: global class  
 
@@ -290,7 +295,8 @@ Provides listeners with an array of elements removed upon clearing the map.
 <a name="ObservableSet"></a>
 
 ## ObservableSet
-Provides the functionality for observing changes to a Set.
+Provides the functionality for observing changes to a Set. All instance methods available on Set
+and EventDispatcher are available to an ObservableSet.
 
 **Kind**: global class  
 
