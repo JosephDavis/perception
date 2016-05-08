@@ -64,4 +64,5 @@ License
 -------
 
 Perception is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). See `LICENSE` for details.
+
 Copyright &copy; 2016, Joey Davis (github.com/JosephDavis)
