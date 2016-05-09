@@ -1,7 +1,7 @@
 {
   "name": "perception",
   "description": "Perceive events and observables with ease",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/index.js",
   "author": "Joey Davis <joey.davis.dev@gmail.com>",
   "license": "Apache-2.0",
